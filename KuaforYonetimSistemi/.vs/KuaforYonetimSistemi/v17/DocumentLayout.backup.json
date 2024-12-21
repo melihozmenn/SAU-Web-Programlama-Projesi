@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "VerticalTabListWidth": 154,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KuaforYonetimSistemi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T14:50:37.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "KuaforYonetimSistemi\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T14:45:22.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

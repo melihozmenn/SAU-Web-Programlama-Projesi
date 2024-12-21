@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\KuaforYonetimSistemi.z2qiq38s3r.bundle.scp.css"
     },
     {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
       "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
     },
     {
       "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\js\\site.js",
