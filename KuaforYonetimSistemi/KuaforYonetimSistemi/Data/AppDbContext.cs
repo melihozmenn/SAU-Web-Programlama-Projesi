@@ -12,3 +12,4 @@ public class AppDbContext : DbContext
     public DbSet<Randevu> Randevus { get; set; }
     public DbSet<Kullanici> Kullanicis { get; set; }
 }
+
