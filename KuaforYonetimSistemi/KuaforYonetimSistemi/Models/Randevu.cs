@@ -10,5 +10,6 @@
 
         public int CalisanId { get; set; }
         public required Calisan Calisan { get; set; }
+
     }
 }

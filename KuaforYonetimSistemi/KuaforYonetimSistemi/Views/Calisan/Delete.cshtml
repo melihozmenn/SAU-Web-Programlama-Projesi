@@ -1,0 +1,45 @@
+@model KuaforYonetimSistemi.Models.Calisan
+
+@{
+    ViewData["Title"] = "Çalýþan Sil";
+}
+
+<h1>Çalýþan Sil</h1>
+
+<h3>Bu çalýþaný silmek istediðinize emin misiniz?</h3>
+<div>
+    <h4>Calisan</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Adi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Adi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.UzmanlikAlanlari)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.UzmanlikAlanlari)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.UygunlukSaatleri)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.UygunlukSaatleri)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Salon)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Salon.Adi)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

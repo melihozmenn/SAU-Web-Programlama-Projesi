@@ -1,13 +1,22 @@
-﻿namespace KuaforYonetimSistemi.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace KuaforYonetimSistemi.Models
 {
     public class Calisan
     {
         public int Id { get; set; }
-        public required string Adi { get; set; }
-        public required string UzmanlikAlanlari { get; set; }
-        public required string UygunlukSaatleri { get; set; }
 
+        [Required(ErrorMessage = "Çalışan adı gereklidir.")]
+        public string Adi { get; set; } = string.Empty;
+
+        [Required(ErrorMessage = "Uzmanlık alanı gereklidir.")]
+        public string UzmanlikAlanlari { get; set; } = string.Empty;
+
+        [Required(ErrorMessage = "Uygunluk saatleri gereklidir.")]
+        public string UygunlukSaatleri { get; set; } = string.Empty;
+
+        // Çalışanın bağlı olduğu salon.
         public int SalonId { get; set; }
-        public required Salon Salon { get; set; }
+        public Salon? Salon { get; set; }
     }
 }
