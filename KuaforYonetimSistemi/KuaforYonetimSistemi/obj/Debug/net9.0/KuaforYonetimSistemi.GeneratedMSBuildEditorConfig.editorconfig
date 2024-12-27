@@ -56,6 +56,30 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/web/SAU-Web-Programlama-Projesi/KuaforYonetimSistemi/KuaforYonetimSistemi/Views/Randevu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFuZGV2dVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/web/SAU-Web-Programlama-Projesi/KuaforYonetimSistemi/KuaforYonetimSistemi/Views/Randevu/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFuZGV2dVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/web/SAU-Web-Programlama-Projesi/KuaforYonetimSistemi/KuaforYonetimSistemi/Views/Randevu/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFuZGV2dVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/web/SAU-Web-Programlama-Projesi/KuaforYonetimSistemi/KuaforYonetimSistemi/Views/Randevu/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFuZGV2dVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/web/SAU-Web-Programlama-Projesi/KuaforYonetimSistemi/KuaforYonetimSistemi/Views/Randevu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFuZGV2dVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/web/SAU-Web-Programlama-Projesi/KuaforYonetimSistemi/KuaforYonetimSistemi/Views/Randevu/Onay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFuZGV2dVxPbmF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/web/SAU-Web-Programlama-Projesi/KuaforYonetimSistemi/KuaforYonetimSistemi/Views/Salon/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Fsb25cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,45 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "KuaforYonetimSistemi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/SalonApi": {
+      "get": {
+        "tags": [
+          "SalonApi"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/SalonApi/{salonId}/calisans": {
+      "get": {
+        "tags": [
+          "SalonApi"
+        ],
+        "parameters": [
+          {
+            "name": "salonId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

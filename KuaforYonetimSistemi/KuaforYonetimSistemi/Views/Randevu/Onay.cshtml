@@ -1,0 +1,23 @@
+﻿namespace KuaforYonetimSistemi.Views.Randevu
+@model KuaforYonetimSistemi.Models.Randevu
+
+@{
+    ViewData["Title"] = "Randevu Onayı";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="alert alert-info">
+    <strong>Randevu Detayları:</strong><br />
+    <strong>İşlem:</strong> @Model.Islem.Adi <br />
+    <strong>Çalışan:</strong> @Model.Calisan.Adi <br />
+    <strong>Tarih:</strong> @Model.Tarih.ToString("dd/MM/yyyy HH:mm") <br />
+    <strong>Müşteri Adı:</strong> @Model.MusteriAdi <br />
+    <strong>Müşteri Telefonu:</strong> @Model.MusteriTelefonu
+</div>
+
+<form asp-action="Onay" method="post">
+    <input type="hidden" name="Id" value="@Model.Id" />
+    <button type="submit" class="btn btn-success">Onayla</button>
+    <a asp-action="Index" class="btn btn-danger">İptal</a>
+</form>

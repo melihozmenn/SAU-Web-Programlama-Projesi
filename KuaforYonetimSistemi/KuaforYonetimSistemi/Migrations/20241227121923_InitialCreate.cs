@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace KuaforYonetimSistemi.Migrations
 {
     /// <inheritdoc />
-    public partial class KuaforDB : Migration
+    public partial class InitialCreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -19,7 +19,9 @@ namespace KuaforYonetimSistemi.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Adi = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Sure = table.Column<int>(type: "int", nullable: false),
-                    Ucret = table.Column<decimal>(type: "decimal(18,2)", nullable: false)
+                    Ucret = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
+                    SalonId = table.Column<int>(type: "int", nullable: false),
+                    Salon = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -86,7 +88,9 @@ namespace KuaforYonetimSistemi.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Tarih = table.Column<DateTime>(type: "datetime2", nullable: false),
                     IslemId = table.Column<int>(type: "int", nullable: false),
-                    CalisanId = table.Column<int>(type: "int", nullable: false)
+                    CalisanId = table.Column<int>(type: "int", nullable: false),
+                    MusteriAdi = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    MusteriTelefonu = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {

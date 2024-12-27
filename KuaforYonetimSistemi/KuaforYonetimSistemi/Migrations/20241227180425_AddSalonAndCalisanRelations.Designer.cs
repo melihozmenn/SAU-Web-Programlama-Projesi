@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace KuaforYonetimSistemi.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20241226181318_UpdateCalisanModel")]
-    partial class UpdateCalisanModel
+    [Migration("20241227180425_AddSalonAndCalisanRelations")]
+    partial class AddSalonAndCalisanRelations
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -122,6 +122,17 @@ namespace KuaforYonetimSistemi.Migrations
 
                     b.Property<int>("IslemId")
                         .HasColumnType("int");
+
+                    b.Property<string>("MusteriAdi")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("MusteriTelefonu")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("Onayli")
+                        .HasColumnType("bit");
 
                     b.Property<DateTime>("Tarih")
                         .HasColumnType("datetime2");

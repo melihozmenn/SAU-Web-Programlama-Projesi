@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "ContainingType": "KuaforYonetimSistemi.Controllers.SalonApiController",
+    "Method": "GetSalons",
+    "RelativePath": "api/SalonApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KuaforYonetimSistemi.Controllers.SalonApiController",
+    "Method": "GetCalisansBySalon",
+    "RelativePath": "api/SalonApi/{salonId}/calisans",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "salonId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

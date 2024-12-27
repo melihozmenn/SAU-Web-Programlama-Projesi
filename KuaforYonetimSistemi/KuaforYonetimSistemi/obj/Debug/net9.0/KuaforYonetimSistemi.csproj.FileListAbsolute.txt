@@ -327,3 +327,8 @@ D:\web\SAU-Web-Programlama-Projesi\KuaforYonetimSistemi\KuaforYonetimSistemi\bin
 D:\web\SAU-Web-Programlama-Projesi\KuaforYonetimSistemi\KuaforYonetimSistemi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\web\SAU-Web-Programlama-Projesi\KuaforYonetimSistemi\KuaforYonetimSistemi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\web\SAU-Web-Programlama-Projesi\KuaforYonetimSistemi\KuaforYonetimSistemi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\web\SAU-Web-Programlama-Projesi\KuaforYonetimSistemi\KuaforYonetimSistemi\obj\Debug\net9.0\KuaforYonetimSistemi.MvcApplicationPartsAssemblyInfo.cs
+D:\web\SAU-Web-Programlama-Projesi\KuaforYonetimSistemi\KuaforYonetimSistemi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\web\SAU-Web-Programlama-Projesi\KuaforYonetimSistemi\KuaforYonetimSistemi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\web\SAU-Web-Programlama-Projesi\KuaforYonetimSistemi\KuaforYonetimSistemi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\web\SAU-Web-Programlama-Projesi\KuaforYonetimSistemi\KuaforYonetimSistemi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll

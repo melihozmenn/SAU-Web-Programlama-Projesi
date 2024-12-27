@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace KuaforYonetimSistemi.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20241224162229_KuaforDB")]
-    partial class KuaforDB
+    [Migration("20241227121923_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -66,6 +66,13 @@ namespace KuaforYonetimSistemi.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Salon")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("SalonId")
+                        .HasColumnType("int");
+
                     b.Property<int>("Sure")
                         .HasColumnType("int");
 
@@ -115,6 +122,14 @@ namespace KuaforYonetimSistemi.Migrations
 
                     b.Property<int>("IslemId")
                         .HasColumnType("int");
+
+                    b.Property<string>("MusteriAdi")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("MusteriTelefonu")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("Tarih")
                         .HasColumnType("datetime2");

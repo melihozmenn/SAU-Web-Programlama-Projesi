@@ -1,11 +1,59 @@
 @model IEnumerable<KuaforYonetimSistemi.Models.Salon>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Salonlar Listesi";
 }
 
-<h1>Index</h1>
+<h1>Salonlar</h1>
+<!-- Salon seçimi -->
+<label for="salon">Salon Seçin:</label>
+<select id="salon" onchange="getCalisansBySalon()">
+    <option value="">Salon Seçin</option>
+    <!-- Salonlar buraya dinamik olarak eklenecek -->
+</select>
+<!-- Çalýþan seçimi -->
+<label for="calisan">Çalýþan Seçin:</label>
+<select id="calisan">
+    <option value="">Çalýþan Seçin</option>
+    <!-- Çalýþanlar buraya dinamik olarak eklenecek -->
+</select>
+<!-- JavaScript kýsmý -->
+<script>
+    // Salonlarý listelemek için API'den verileri alýyoruz
+    fetch('https://localhost:7119/api/salonapi')
+        .then(response => response.json())
+        .then(data => {
+            const salonSelect = document.getElementById('salon');
+            data.forEach(salon => {
+                const option = document.createElement('option');
+                option.value = salon.id;
+                option.textContent = salon.adi;
+                salonSelect.appendChild(option);
+            });
+        });
 
+    // Salon seçildiðinde çalýþanlarý listele
+    function getCalisansBySalon() {
+        const salonId = document.getElementById('salon').value;
+        if (salonId) {
+            fetch(`https://localhost:7119/api/salonapi/${salonId}/calisans`)
+                .then(response => response.json())
+                .then(data => {
+                    const calisanSelect = document.getElementById('calisan');
+                    calisanSelect.innerHTML = '<option value="">Çalýþan Seçin</option>'; // Önceki çalýþanlarý temizle
+                    data.forEach(calisan => {
+                        const option = document.createElement('option');
+                        option.value = calisan.id;
+                        option.textContent = calisan.adi;
+                        calisanSelect.appendChild(option);
+                    });
+                })
+                .catch(error => {
+                    console.error('Çalýþanlar alýnýrken bir hata oluþtu', error);
+                });
+        }
+    }
+</script>
 <p>
     <a asp-action="Create">Create New</a>
 </p>
