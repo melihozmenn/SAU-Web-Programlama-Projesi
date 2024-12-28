@@ -5,24 +5,100 @@
       "PackagePath": "staticwebassets\\KuaforYonetimSistemi.z2qiq38s3r.bundle.scp.css"
     },
     {
-      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
-    },
-    {
-      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
       "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\img\\about\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\1.jpg"
     },
     {
-      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\img\\about\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\2.jpg"
+    },
+    {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\img\\about\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\3.jpg"
+    },
+    {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\img\\about\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\4.jpg"
+    },
+    {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\img\\close-icon.svg",
+      "PackagePath": "staticwebassets\\img\\close-icon.svg"
+    },
+    {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\img\\header-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\header-bg.jpg"
+    },
+    {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\img\\logos\\facebook.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\facebook.svg"
+    },
+    {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\img\\logos\\google.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\google.svg"
+    },
+    {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\img\\logos\\ibm.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\ibm.svg"
+    },
+    {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\img\\logos\\microsoft.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\microsoft.svg"
+    },
+    {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\img\\map-image.png",
+      "PackagePath": "staticwebassets\\img\\map-image.png"
+    },
+    {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\img\\navbar-logo.svg",
+      "PackagePath": "staticwebassets\\img\\navbar-logo.svg"
+    },
+    {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\img\\portfolio\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\1.jpg"
+    },
+    {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\img\\portfolio\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\2.jpg"
+    },
+    {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\img\\portfolio\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\3.jpg"
+    },
+    {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\img\\portfolio\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\4.jpg"
+    },
+    {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\img\\portfolio\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\5.jpg"
+    },
+    {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\img\\portfolio\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\6.jpg"
+    },
+    {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\img\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\1.jpg"
+    },
+    {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\img\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\2.jpg"
+    },
+    {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\img\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\3.jpg"
+    },
+    {
+      "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
     },
     {
       "Id": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\wwwroot\\lib\\bootstrap\\LICENSE",

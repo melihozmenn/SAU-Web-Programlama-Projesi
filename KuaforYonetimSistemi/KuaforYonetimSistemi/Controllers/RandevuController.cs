@@ -69,7 +69,7 @@ namespace KuaforYonetimSistemi.Controllers
         {
             // Çalýþanlarý ve iþlemleri ViewData'ya gönderiyoruz
             ViewData["CalisanId"] = new SelectList(_context.Calisans, "Id", "Adi");
-            ViewData["IslemId"] = new SelectList(_context.Islems, "Id", "Salon");
+            ViewData["IslemId"] = new SelectList(_context.Islems, "Id", "Adi");
             return View();
         }
         // POST: Randevu/Create

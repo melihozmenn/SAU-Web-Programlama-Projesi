@@ -1,5 +1,57 @@
 [
   {
+    "ContainingType": "RandevuApiController",
+    "Method": "GetAll",
+    "RelativePath": "api/RandevuApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RandevuApiController",
+    "Method": "GetByCalisan",
+    "RelativePath": "api/RandevuApi/calisan/{calisanId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "calisanId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RandevuApiController",
+    "Method": "GetApproved",
+    "RelativePath": "api/RandevuApi/onayli",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RandevuApiController",
+    "Method": "GetByDate",
+    "RelativePath": "api/RandevuApi/tarih",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tarih",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "KuaforYonetimSistemi.Controllers.SalonApiController",
     "Method": "GetSalons",
     "RelativePath": "api/SalonApi",

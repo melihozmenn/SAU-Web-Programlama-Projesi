@@ -3,96 +3,76 @@
   "WorkspaceRootPath": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\views\\salon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\views\\salon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\controllers\\salonapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\controllers\\salonapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\views\\calisan\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\views\\calisan\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\models\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\models\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\models\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\models\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\models\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\models\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\controllers\\randevucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\controllers\\randevucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\views\\randevu\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\views\\randevu\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\models\\islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\models\\islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\views\\randevu\\onay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\views\\randevu\\onay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\views\\calisan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\views\\calisan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\models\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\models\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\controllers\\calisancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\controllers\\calisancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\controllers\\saloncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\controllers\\saloncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\views\\calisan\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\views\\calisan\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\views\\calisan\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\views\\calisan\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\views\\salon\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\views\\salon\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\views\\salon\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\views\\salon\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\views\\calisan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\views\\calisan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\views\\salon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\views\\salon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\controllers\\randevucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\controllers\\randevucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\models\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\models\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\views\\randevu\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\views\\randevu\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\views\\randevu\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\views\\randevu\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\models\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\models\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|d:\\web\\sau-web-programlama-projesi\\kuaforyonetimsistemi\\kuaforyonetimsistemi\\kuaforyonetimsistemi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E3A5591-9DB6-4FAF-8FC6-2A311E037752}|KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj|solutionrelative:kuaforyonetimsistemi\\kuaforyonetimsistemi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -101,8 +81,8 @@
       "VerticalTabListWidth": 161,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "DockedWidth": 203,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,302 +106,234 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SalonApiController.cs",
-              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Controllers\\SalonApiController.cs",
-              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Controllers\\SalonApiController.cs",
-              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Controllers\\SalonApiController.cs",
-              "RelativeToolTip": "KuaforYonetimSistemi\\Controllers\\SalonApiController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAkwDgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T17:45:41.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Randevu\\Create.cshtml",
-              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Views\\Randevu\\Create.cshtml",
-              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Randevu\\Create.cshtml",
-              "RelativeToolTip": "KuaforYonetimSistemi\\Views\\Randevu\\Create.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T17:05:49.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Onay.cshtml",
-              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Randevu\\Onay.cshtml",
-              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Views\\Randevu\\Onay.cshtml",
-              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Randevu\\Onay.cshtml",
-              "RelativeToolTip": "KuaforYonetimSistemi\\Views\\Randevu\\Onay.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T12:51:48.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RandevuController.cs",
-              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Controllers\\RandevuController.cs",
-              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Controllers\\RandevuController.cs",
-              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Controllers\\RandevuController.cs",
-              "RelativeToolTip": "KuaforYonetimSistemi\\Controllers\\RandevuController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAtwGAAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T12:38:52.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Calisan\\Index.cshtml",
-              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Views\\Calisan\\Index.cshtml",
-              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Calisan\\Index.cshtml",
-              "RelativeToolTip": "KuaforYonetimSistemi\\Views\\Calisan\\Index.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T18:40:30.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Calisan\\Delete.cshtml",
-              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Views\\Calisan\\Delete.cshtml",
-              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Calisan\\Delete.cshtml",
-              "RelativeToolTip": "KuaforYonetimSistemi\\Views\\Calisan\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T18:18:06.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Calisan\\Edit.cshtml",
-              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Views\\Calisan\\Edit.cshtml",
-              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Calisan\\Edit.cshtml",
-              "RelativeToolTip": "KuaforYonetimSistemi\\Views\\Calisan\\Edit.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAACgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T18:16:49.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Calisan\\Create.cshtml",
-              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Views\\Calisan\\Create.cshtml",
-              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Calisan\\Create.cshtml",
-              "RelativeToolTip": "KuaforYonetimSistemi\\Views\\Calisan\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T18:15:58.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CalisanController.cs",
-              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Controllers\\CalisanController.cs",
-              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Controllers\\CalisanController.cs",
-              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Controllers\\CalisanController.cs",
-              "RelativeToolTip": "KuaforYonetimSistemi\\Controllers\\CalisanController.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAmwJoAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T18:05:18.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "TestController.cs",
-              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Controllers\\TestController.cs",
-              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Controllers\\TestController.cs",
-              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Controllers\\TestController.cs",
-              "RelativeToolTip": "KuaforYonetimSistemi\\Controllers\\TestController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T18:59:29.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "KuaforYonetimSistemi\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "KuaforYonetimSistemi\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T18:46:26.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Salon\\Index.cshtml",
-              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Views\\Salon\\Index.cshtml",
-              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Salon\\Index.cshtml*",
-              "RelativeToolTip": "KuaforYonetimSistemi\\Views\\Salon\\Index.cshtml*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowDcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T18:40:15.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Salon\\Edit.cshtml",
-              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Views\\Salon\\Edit.cshtml",
-              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Salon\\Edit.cshtml",
-              "RelativeToolTip": "KuaforYonetimSistemi\\Views\\Salon\\Edit.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T18:20:47.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Salon\\Create.cshtml",
-              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Views\\Salon\\Create.cshtml",
-              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Salon\\Create.cshtml",
-              "RelativeToolTip": "KuaforYonetimSistemi\\Views\\Salon\\Create.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T18:14:45.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SalonController.cs",
-              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Controllers\\SalonController.cs",
-              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Controllers\\SalonController.cs",
-              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Controllers\\SalonController.cs",
-              "RelativeToolTip": "KuaforYonetimSistemi\\Controllers\\SalonController.cs",
-              "ViewState": "AgIAAIAAAAAAAAAAAADgv4gAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T20:45:04.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\appsettings.json",
-              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\appsettings.json",
-              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\appsettings.json",
-              "RelativeToolTip": "KuaforYonetimSistemi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-24T15:51:59.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Kullanici.cs",
-              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Models\\Kullanici.cs",
-              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Models\\Kullanici.cs",
-              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Models\\Kullanici.cs",
-              "RelativeToolTip": "KuaforYonetimSistemi\\Models\\Kullanici.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T15:04:51.621Z",
+              "WhenOpened": "2024-12-28T18:52:58.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Randevu.cs",
-              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Models\\Randevu.cs",
-              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Models\\Randevu.cs",
-              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Models\\Randevu.cs",
-              "RelativeToolTip": "KuaforYonetimSistemi\\Models\\Randevu.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T15:04:40.066Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Calisan\\Index.cshtml",
+              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Views\\Calisan\\Index.cshtml",
+              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Calisan\\Index.cshtml",
+              "RelativeToolTip": "KuaforYonetimSistemi\\Views\\Calisan\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T18:38:31.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Islem.cs",
-              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Models\\Islem.cs",
-              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Models\\Islem.cs",
-              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Models\\Islem.cs",
-              "RelativeToolTip": "KuaforYonetimSistemi\\Models\\Islem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T15:04:24.896Z",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Salon\\Index.cshtml",
+              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Views\\Salon\\Index.cshtml",
+              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Salon\\Index.cshtml",
+              "RelativeToolTip": "KuaforYonetimSistemi\\Views\\Salon\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T18:34:47.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Calisan.cs",
-              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Models\\Calisan.cs",
-              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Models\\Calisan.cs",
-              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Models\\Calisan.cs",
-              "RelativeToolTip": "KuaforYonetimSistemi\\Models\\Calisan.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "RandevuController.cs",
+              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Controllers\\RandevuController.cs",
+              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Controllers\\RandevuController.cs",
+              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Controllers\\RandevuController.cs",
+              "RelativeToolTip": "KuaforYonetimSistemi\\Controllers\\RandevuController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEcAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T15:04:11.369Z",
+              "WhenOpened": "2024-12-28T18:29:39.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Salon.cs",
-              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Models\\Salon.cs",
-              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Models\\Salon.cs",
-              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Models\\Salon.cs",
-              "RelativeToolTip": "KuaforYonetimSistemi\\Models\\Salon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T15:02:56.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Data\\AppDbContext.cs",
               "RelativeToolTip": "KuaforYonetimSistemi\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvzIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T14:58:24.017Z",
+              "WhenOpened": "2024-12-28T18:25:45.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Randevu\\Details.cshtml",
+              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Views\\Randevu\\Details.cshtml",
+              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Randevu\\Details.cshtml",
+              "RelativeToolTip": "KuaforYonetimSistemi\\Views\\Randevu\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAvwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T18:22:23.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Randevu\\Delete.cshtml",
+              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Views\\Randevu\\Delete.cshtml",
+              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Randevu\\Delete.cshtml",
+              "RelativeToolTip": "KuaforYonetimSistemi\\Views\\Randevu\\Delete.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAvwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T18:22:06.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Salon.cs",
+              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Models\\Salon.cs",
+              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Models\\Salon.cs",
+              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Models\\Salon.cs",
+              "RelativeToolTip": "KuaforYonetimSistemi\\Models\\Salon.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:16:27.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Randevu.cs",
+              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Models\\Randevu.cs",
+              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Models\\Randevu.cs",
+              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Models\\Randevu.cs",
+              "RelativeToolTip": "KuaforYonetimSistemi\\Models\\Randevu.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:14:35.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Islem.cs",
+              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Models\\Islem.cs",
+              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Models\\Islem.cs",
+              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Models\\Islem.cs",
+              "RelativeToolTip": "KuaforYonetimSistemi\\Models\\Islem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:13:10.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KuaforYonetimSistemi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T16:47:33.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Data\\SeedData.cs",
+              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Data\\SeedData.cs",
+              "RelativeToolTip": "KuaforYonetimSistemi\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:17:17.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "KuaforYonetimSistemi\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T16:15:53.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "KuaforYonetimSistemi\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:15:37.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Program.cs",
               "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Program.cs",
               "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Program.cs",
               "RelativeToolTip": "KuaforYonetimSistemi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T19:53:16.478Z",
+              "WhenOpened": "2024-12-28T16:11:37.561Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "KuaforYonetimSistemi\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:05:27.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KuaforYonetimSistemi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:56:01.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KuaforYonetimSistemi.csproj",
+              "DocumentMoniker": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj",
+              "RelativeDocumentMoniker": "KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj",
+              "ToolTip": "D:\\web\\SAU-Web-Programlama-Projesi\\KuaforYonetimSistemi\\KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj",
+              "RelativeToolTip": "KuaforYonetimSistemi\\KuaforYonetimSistemi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T15:50:29.522Z"
             }
           ]
         }

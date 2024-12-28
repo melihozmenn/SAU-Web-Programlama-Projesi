@@ -5,6 +5,75 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/RandevuApi": {
+      "get": {
+        "tags": [
+          "RandevuApi"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/RandevuApi/calisan/{calisanId}": {
+      "get": {
+        "tags": [
+          "RandevuApi"
+        ],
+        "parameters": [
+          {
+            "name": "calisanId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/RandevuApi/tarih": {
+      "get": {
+        "tags": [
+          "RandevuApi"
+        ],
+        "parameters": [
+          {
+            "name": "tarih",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/RandevuApi/onayli": {
+      "get": {
+        "tags": [
+          "RandevuApi"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/SalonApi": {
       "get": {
         "tags": [
