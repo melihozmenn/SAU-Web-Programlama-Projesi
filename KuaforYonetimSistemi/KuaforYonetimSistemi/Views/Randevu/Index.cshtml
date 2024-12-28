@@ -1,59 +1,60 @@
 @model IEnumerable<KuaforYonetimSistemi.Models.Randevu>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Randevu Yönetimi";
 }
 
-<h1>Index</h1>
+<h1>Randevu Yönetimi</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create" class="btn btn-primary">Yeni Randevu Ekle</a>
 </p>
-<table class="table">
+
+<table class="table table-striped table-hover">
     <thead>
         <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Tarih)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Islem)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Calisan)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.MusteriAdi)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.MusteriTelefonu)
-            </th>
-            <th></th>
+            <th>#</th>
+            <th>Müþteri Adý</th>
+            <th>Müþteri Telefonu</th>
+            <th>Tarih</th>
+            <th>Çalýþan</th>
+            <th>Ýþlem</th>
+            <th>Durum</th>
+            <th>Ýþlemler</th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Tarih)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Islem.Salon)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Calisan.Adi)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.MusteriAdi)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.MusteriTelefonu)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
+        @foreach (var randevu in Model)
+        {
+            <tr>
+                <td>@randevu.Id</td>
+                <td>@randevu.MusteriAdi</td>
+                <td>@randevu.MusteriTelefonu</td>
+                <td>@randevu.Tarih.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>@randevu.Calisan?.Adi</td>
+                <td>@randevu.Islem?.Adi</td>
+                <td>
+                    @if (randevu.Onayli)
+                    {
+                        <span class="badge bg-success">Onaylandý</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-warning">Bekliyor</span>
+                    }
+                </td>
+                <td>
+                    <div class="btn-group">
+                        @if (!randevu.Onayli)
+                        {
+                            <a asp-action="Onay" asp-route-id="@randevu.Id" class="btn btn-sm btn-success">Onayla</a>
+                        }
+                        <a asp-action="Details" asp-route-id="@randevu.Id" class="btn btn-sm btn-primary">Detaylar</a>
+                        <a asp-action="Edit" asp-route-id="@randevu.Id" class="btn btn-sm btn-warning">Düzenle</a>
+                        <a asp-action="Delete" asp-route-id="@randevu.Id" class="btn btn-sm btn-danger">Sil</a>
+                    </div>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
